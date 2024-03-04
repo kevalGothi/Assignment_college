@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment_college</string>
+
+    <string-array name="unit_array">
+        <item>Meter</item>
+        <item>Kilometer</item>
+    </string-array>
+</resources>
