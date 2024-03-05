@@ -16,18 +16,18 @@
         android:id="@+id/lion"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginStart="50dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginStart="25sp"
+        android:layout_marginTop="50sp"
         android:src="@drawable/lion"/>
 
 
     <ImageView
         android:id="@+id/tiger"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_marginStart="25dp"
-        android:layout_marginTop="50dp"
-        android:layout_marginEnd="50dp"
+        android:layout_width="150sp"
+        android:layout_height="150sp"
+        android:layout_marginStart="25sp"
+        android:layout_marginTop="50sp"
+        android:layout_marginEnd="50sp"
         android:src="@drawable/tiger"/>
 
     </LinearLayout>
@@ -38,20 +38,20 @@
 
     <ImageView
         android:id="@+id/elephant"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_marginStart="50dp"
-        android:layout_marginTop="50dp"
+        android:layout_width="150sp"
+        android:layout_height="150sp"
+        android:layout_marginStart="25sp"
+        android:layout_marginTop="50sp"
         android:src="@drawable/elephant"/>
 
 
     <ImageView
         android:id="@+id/monkey"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_marginStart="25dp"
-        android:layout_marginTop="50dp"
-        android:layout_marginEnd="50dp"
+        android:layout_width="150sp"
+        android:layout_height="150sp"
+        android:layout_marginStart="25sp"
+        android:layout_marginTop="50sp"
+        android:layout_marginEnd="50sp"
         android:src="@drawable/monkey"/>
 
     </LinearLayout>
@@ -63,9 +63,9 @@
 
         <ImageView
             android:id="@+id/dog"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-            android:layout_marginStart="130dp"
+            android:layout_width="150sp"
+            android:layout_height="150sp"
+            android:layout_marginStart="130sp"
             android:layout_marginTop="45dp"
             android:layout_marginBottom="15dp"
             android:src="@drawable/dog" />

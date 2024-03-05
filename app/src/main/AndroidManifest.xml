@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Assignment_college"
         tools:targetApi="31">
         <activity
+            android:name=".assignment_1"
+            android:exported="false" />
+        <activity
             android:name=".Assignment4"
             android:exported="false" />
         <activity

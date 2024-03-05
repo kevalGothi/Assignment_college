@@ -5,4 +5,8 @@
         <item>Meter</item>
         <item>Kilometer</item>
     </string-array>
+
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+
 </resources>
