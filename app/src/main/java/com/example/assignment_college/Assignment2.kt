@@ -27,6 +27,7 @@ class Assignment2 : AppCompatActivity() {
             if (feetValue != null) {
                 val selectedItem = binding.unitSpinner.selectedItem.toString()
                 val result = when (selectedItem) {
+                    "Inch" -> feetValue * 12 // Convert feet to inch
                     "Meter" -> feetValue * 0.3048 // Convert feet to meters
                     "Kilometer" -> feetValue * 0.0003048 // Convert feet to kilometers
                     else -> 0.0
